@@ -2,6 +2,7 @@
   "name": "html-table-creator",
   "displayName": "HTML Table Creator",
   "description": "automatically create HTML table",
+  "publisher": "jehankandy",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
