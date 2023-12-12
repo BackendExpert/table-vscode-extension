@@ -3,7 +3,7 @@
 		"description": "2 rows and 2 column",
 		"scope": "",
 		"prefix": "tbl-col2-row2",
-		"body": "<table border=\"1\"><thead><tr><th>Heading<th><th>Heading<th></tr></thead><tbody><tr><td>Cell<td><td>Cell<td></tr><tr><td>Cell<td><td>Cell<td></tr></tbody></table>"
+		"body": "<table border=\"1\">\n\t<thead>\n\t<tr>\n\t<th>Heading<th>\n<th>Heading<th></tr></thead><tbody><tr><td>Cell<td><td>Cell<td></tr><tr><td>Cell<td><td>Cell<td></tr></tbody></table>"
 	},
 	"jkbtn jkbtn-blue": {
 		"description": "Button default",
