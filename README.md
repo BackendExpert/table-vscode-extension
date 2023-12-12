@@ -4,6 +4,7 @@
 
 - Automatically Create HTML Tables VScode Extension
 
+
 # Releases
 
 ## Version 1.0.0 - 12 December 2023
