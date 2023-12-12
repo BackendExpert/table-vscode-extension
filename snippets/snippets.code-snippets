@@ -1,9 +1,9 @@
 {
-	"jkcss": {
-		"description": "Button default",
+	"tbl-col2-row2": {
+		"description": "2 rows and 2 column",
 		"scope": "",
-		"prefix": "jkcss",
-		"body": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@jehankandy/jkcss@1.1.0-alpha1/src/110-alpha1/jkcss.min.css\">"
+		"prefix": "tbl-col2-row2",
+		"body": "<table border=\"1\"><thead><tr><th><th></tr></thead></table>"
 	},
 	"jkbtn jkbtn-blue": {
 		"description": "Button default",
