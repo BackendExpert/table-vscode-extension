@@ -1,8 +1,9 @@
 {
   "name": "html-table-creator",
   "displayName": "HTML Table Creator",
-  "description": "automatically create HTML table",
+  "description": "Automatically Create HTML Tables",
   "publisher": "jehankandy",
+  "icon": "html_table.png",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
