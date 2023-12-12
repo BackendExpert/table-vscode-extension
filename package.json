@@ -1,0 +1,20 @@
+{
+  "name": "html-table-creator",
+  "displayName": "HTML Table Creator",
+  "description": "automatically create HTML table",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
