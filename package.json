@@ -2,7 +2,7 @@
   "name": "html-table-creator",
   "displayName": "HTML Table Creator",
   "description": "Automatically Create HTML Tables",
-  "publisher": "jehankandy",
+  "publisher": "JehanKandy",
   "icon": "html_table.png",
   "version": "1.0.0",
   "engines": {
