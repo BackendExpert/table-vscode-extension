@@ -6,6 +6,8 @@
 
 # Documentation
 
+- Following is the Documentation of this VScode Extension
+
 | Tag  | Description |
 | ------------- | ------------- |
 | .tbl-col2-row2  | 2 columns and 2 rows Table  |
