@@ -6,6 +6,11 @@
 
 # Documentation
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 # Releases
 
 ## Version 1.0.0 - 12 December 2023
