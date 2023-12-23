@@ -6,7 +6,7 @@
 
 # Documentation
 
-| First Header  | Second Header |
+| Tag  | Description |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
