@@ -13,6 +13,14 @@
 - 2 columns and 2 rows table
 - 2 columns and 3 rows table
 
+## Version 1.1.0 - 23 December 2023
+
+- fixing bugs on Version 1.0.0 - 12 December 2023
+- 2 columns and 2 rows table
+- 2 columns and 3 rows table
+- 2 columns and 4 rows table (newly added)
+- 3 columns and 2 rows table (newly added)
+
 # Developers
 
 ## JehanKandy
