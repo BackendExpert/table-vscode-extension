@@ -4,6 +4,7 @@
 
 - Automatically Create HTML Tables VScode Extension
 
+# Documentation
 
 # Releases
 
