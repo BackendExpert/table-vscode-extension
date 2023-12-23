@@ -3,12 +3,24 @@
 		"description": "2 columns and 2 rows",
 		"scope": "",
 		"prefix": "tbl-col2-row2",
-		"body": "<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Heading</th>\n\t\t\t<th>Heading</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell<td>\n\t\t</tr>\n\t</tbody>\n</table>"
+		"body": "<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Heading</th>\n\t\t\t<th>Heading</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t</tbody>\n</table>"
 	},
 	"tbl-col2-row3": {
 		"description": "2 columns and 3 rows",
 		"scope": "",
-		"prefix": "tbl-col2-row2",
-		"body": "<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Heading</th>\n\t\t\t<th>Heading</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell<td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell<td>\n\t\t</tr>\n\t</tbody>\n</table>"
+		"prefix": "tbl-col2-row3",
+		"body": "<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Heading</th>\n\t\t\t<th>Heading</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t</tbody>\n</table>"
+	},
+	"tbl-col2-row4": {
+		"description": "2 columns and 4 rows",
+		"scope": "",
+		"prefix": "tbl-col2-row4",
+		"body": "<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Heading</th>\n\t\t\t<th>Heading</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t</tbody>\n</table>"
+	},
+	"tbl-col3-row2": {
+		"description": "2 columns and 3 rows",
+		"scope": "",
+		"prefix": "tbl-col2-row3",
+		"body": "<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Heading</th>\n\t\t\t<th>Heading</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t</tbody>\n</table>"
 	},
 }
