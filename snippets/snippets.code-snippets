@@ -21,6 +21,6 @@
 		"description": "3 columns and 4 rows",
 		"scope": "",
 		"prefix": "tbl-col3-row2",
-		"body": "<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Heading</th>\n\t\t\t<th>Heading</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t</tbody>\n</table>"
+		"body": "<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Heading</th>\n\t\t\t<th>Heading</th>\n\t\t\t<th>Heading</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t\t<td>Cell</td>\n\t\t</tr>\n\t</tbody>\n</table>"
 	},
 }
