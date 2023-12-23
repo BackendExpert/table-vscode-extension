@@ -9,9 +9,9 @@
 | Tag  | Description |
 | ------------- | ------------- |
 | .tbl-col2-row2  | 2 columns and 2 rows Table  |
-| .tbl-col2-row3  | 2 columns and 2 rows Table  |
-| .tbl-col2-row4  | 2 columns and 2 rows Table  |
-| .tbl-col3-row2  | 2 columns and 2 rows Table  |
+| .tbl-col2-row3  | 2 columns and 3 rows Table  |
+| .tbl-col2-row4  | 2 columns and 4 rows Table  |
+| .tbl-col3-row2  | 3 columns and 2 rows Table  |
 
 # Releases
 
