@@ -8,8 +8,10 @@
 
 | Tag  | Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| .tbl-col2-row2  | 2 columns and 2 rows Table  |
+| .tbl-col2-row3  | Content Cell  |
+| .tbl-col2-row4  | Content Cell  |
+| .tbl-col3-row2  | Content Cell  |
 
 # Releases
 
